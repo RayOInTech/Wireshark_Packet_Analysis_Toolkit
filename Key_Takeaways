@@ -7,18 +7,21 @@ Task 1:
 
 Install and set up Wireshark on Ubuntu:
 
+[Screenshot: 1]
 
 Task 2:
 
 Start a packet capture on an ethernet port and save it to file:
 
 
+[Screenshot: 2]
 
 
 Task 3:
 
 Use a display filter to detect HTTPS packets:
 
+[Screenshot: 3]
 
 Task 4:
 
@@ -26,7 +29,10 @@ Visit a web page and detect its IP address using a display filter:
 
 ●By using a TLS handshake display filter, this may be used to detect a website visit in a packet list: tls.handshake.type ==1
 
+[Screenshot: 4]
+
 Task 5:
 Locate all HTTPS packets from a capture not containing a certain IP address:
 
+[Screenshot: 5]
 
