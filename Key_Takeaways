@@ -9,6 +9,8 @@ Install and set up Wireshark on Ubuntu:
 
 [Screenshot: 1]
 
+
+
 Task 2:
 
 Start a packet capture on an ethernet port and save it to file:
