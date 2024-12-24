@@ -16,8 +16,8 @@ Task 1:
 
 Install and set up Wireshark on Ubuntu:
 
-[Task 1 Screenshots]
-
+**[Task 1 Screenshots]
+**
 ![Topic_1_Screenshot](https://github.com/user-attachments/assets/8007c15b-5b21-4f9e-850b-6e25e2126490)
 
 ![Topic_1_Screenshot_2](https://github.com/user-attachments/assets/b311fe13-65e3-4a27-8a9e-3b35aafdb40f)
