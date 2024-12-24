@@ -34,7 +34,8 @@ Task 3:
 
 Use a display filter to detect HTTPS packets:
 
-[Screenshot: 3]
+![Topic_3_Screenshot_1](https://github.com/user-attachments/assets/9e71434e-6d99-4b4a-8de6-5c88f88de60d)
+
 
 Task 4:
 
