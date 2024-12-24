@@ -1,3 +1,4 @@
+
 # Wireshark_Packet_Analysis_Toolkit
 
 
@@ -41,8 +42,8 @@ Task 4:
 
 Visit a web page and detect its IP address using a display filter:
 
+<img width="894" alt="Topic_4_Screenshot_1" src="https://github.com/user-attachments/assets/91aca406-2c6d-48b7-9aaa-40f237028f0b" />
 
-[Screenshot: 4]
 
 Task 5:
 Locate all HTTPS packets from a capture not containing a certain IP address:
