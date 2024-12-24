@@ -58,7 +58,7 @@ Visit a web page and detect its IP address using a display filter:
 
 <img width="894" alt="Topic_4_Screenshot_1" src="https://github.com/user-attachments/assets/91aca406-2c6d-48b7-9aaa-40f237028f0b" />
 
--This syntax notation of (ip.dst == [source_ip_address]) created a filter regarding an open webpage. Since Firefox was launched, this was the IP address associated with it.
+- This syntax notation of (ip.dst == [source_ip_address]) created a filter regarding an open webpage. Since Firefox was launched, this was the IP address associated with it.
 
 Task 5:
 Locate all HTTPS packets from a capture not containing a certain IP address:
@@ -75,6 +75,6 @@ Locate all HTTPS packets from a capture not containing a certain IP address:
 
 <img width="893" alt="Topic_5_Screenshot_3" src="https://github.com/user-attachments/assets/4f38c03c-77bf-4f31-8119-36652eda161a" />
 
--The notation here helps for locating different HTTPS packets that are not within the listed IP address of (172.18.0.27). Additionally, it filters the ports of HTTP and HTTPS as well.
+- The notation here helps for locating different HTTPS packets that are not within the listed IP address of (172.18.0.27). Additionally, it filters the ports of HTTP and HTTPS as well.
 
 
