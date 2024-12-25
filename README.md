@@ -77,4 +77,17 @@ Locate all HTTPS packets from a capture not containing a certain IP address:
 
 - The notation here helps for locating different HTTPS packets that are not within the listed IP address of (172.18.0.27). Additionally, it filters the ports of HTTP and HTTPS as well.
 
+In this lab, Wireshark was efficiently used to analyze network traffic, helping to gain insights into the detection of potential security vulnerabilities. Examining communication patterns and protocol behavior, helped demonstrate the importance of packet analysis. 
+
+Furthermore, it helped reinforce common core networking concepts, such as analyzing packet structure, traffic flow, and threat detection.
+
+This project not only solidified my technical skills but also provided a deeper understanding of how network analysis contributes to maintaining a secure and efficient IT environment in response to different incident response scenarios.
+
+
+
+
+
+
+
+
 
